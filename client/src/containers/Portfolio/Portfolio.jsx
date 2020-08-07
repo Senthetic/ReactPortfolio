@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 class Portfolio extends Component {
     render() {
         return (
-            <div>
+            
                 <nav>
               <div class="nav-wrapper">
                 <a href="#" class="brand-logo">
@@ -23,7 +23,7 @@ class Portfolio extends Component {
                 </ul>
               </div>
             </nav>
-            </div>
+            
         );
     }
 }
