@@ -1,5 +1,5 @@
 {
-  "name": "react-portfolio",
+  "name": "ReactPortfolio",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -26,10 +26,6 @@
   "homepage": "https://github.com/Senthetic/ReactPortfolio#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "if-env": "^1.0.4",
     "mongoose": "^5.9.27"
-  },
-  "devDependencies": {
-    "concurrently": "^5.2.0"
   }
 }
