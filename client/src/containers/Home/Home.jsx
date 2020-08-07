@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 class Home extends Component {
     render() {
         return (
-            <div><div>
+           
             <nav>
               <div class="nav-wrapper">
                 <a href="#" class="brand-logo">
@@ -23,9 +23,9 @@ class Home extends Component {
                 </ul>
               </div>
             </nav>
-          </div>
+          
                 
-            </div>
+          
         );
     }
 }
