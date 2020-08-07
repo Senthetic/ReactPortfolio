@@ -21,9 +21,9 @@ function App() {
     <Router>
       <Switch>
         <Route exact path="/" component={Home} />
-        <Route exact path="/About" component={Home} />
-        <Route exact path="/Portfolio" component={Portfolio} />
-        <Route exact path="/Contact" component={Contact} />
+        <Route exact path="/about" component={Home} />
+        <Route exact path="/portfolio" component={Portfolio} />
+        <Route exact path="/contact" component={Contact} />
         <Route component={NoMatch} />
       </Switch>
     </Router>
